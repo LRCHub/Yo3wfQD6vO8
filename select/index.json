@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "FREAK ALARM",
+  "base_artist": "ALPHA DRIVE ONE",
+  "createdAt": "2026-03-12T18:22:20.991648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FREAK ALARM",
+      "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+      "has_synced": true,
+      "path": "select/01_FREAK_ALARM_ALPHA_DRIVE_ONE_(알파드라이브원).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FREAK ALARM",
+      "artist": "ALPHA DRIVE ONE",
+      "has_synced": true,
+      "path": "select/02_FREAK_ALARM_ALPHA_DRIVE_ONE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FREAK ALARM",
+      "artist": "ALPHA DRIVE ONE",
+      "has_synced": false,
+      "path": "select/pl_01_FREAK_ALARM_ALPHA_DRIVE_ONE.txt"
+    }
+  ]
+}
